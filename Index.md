@@ -26,7 +26,7 @@
 <tr><th>人</th><th>220</th><th>g</th></tr>
 <tr><th>味噌</th><th>5</th><th>Kg</th></tr>
 <tr><th>水</th><th>28</th><th>L</th></tr>
-
+</table>
 <h3>送信</h3>
 <form id="top" action="#" method="post">
 <p><input type="text" name="input1"></p>
