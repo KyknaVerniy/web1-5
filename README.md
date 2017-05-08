@@ -1,1 +1,54 @@
 # web1-5
+<html>
+<head>
+  <title>味噌煮込み???</title>
+</head>
+<body>
+<p>味噌煮込みは初めて作るのかい？<br><strong>それじゃあ一緒に作ろう！</strong></p>
+<ul>
+<li>あ</li>
+<li>い</li>
+<li>う</li>
+</ul>
+<ol>
+<li>あ</li>
+<li>い</li>
+<li>う</li>
+</ol>
+<dl>
+<dt>人</dt><dd>220g</dd>
+<dt>味噌</dt><dd>5Kg</dd>
+<dt>水</dt><dd>28L</dd>
+</dl>
+<table>
+<tr><th>材料名</th><th>分量</th><th>単位</th></tr>
+<tr><th>人</th><th>220</th><th>g</th></tr>
+<tr><th>味噌</th><th>5</th><th>Kg</th></tr>
+<tr><th>水</th><th>28</th><th>L</th></tr>
+<h2>アンケート</h2>
+<form id="top" action="#" method="post">
+<p><input type="text" name="input1"></p>
+<p><input type="submit" value="送信">
+<input type="reset" value="取り消し"></p>
+<form id="top" action="#" method="post">
+<p>テキストボックス<input type="text"              name="input1"></p>
+</form>
+<p>好きなのは？
+<input type="radio"name="input11"value="kutiku" checked>駆逐艦
+<input type="radio"name="input11"value="senkan" checked>戦艦
+<input type="radio"name="input11"value="keizyun" checked>軽巡
+</p>
+<p>好きなのは？
+<input type="checkbox"name="input11"value="kutiku" checked>駆逐艦
+<input type="checkbox"name="input11"value="senkan" checked>戦艦
+<input type="checkbox"name="input11"value="keizyun" checked>軽巡
+</p>
+<p>好きなのは？
+<select name="input13">
+<option value="kutiku">駆逐艦
+<option value="senkan">戦艦
+<option value="keizyun" selected>軽巡
+</select></p>
+
+</body>
+</html>
