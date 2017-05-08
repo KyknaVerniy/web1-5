@@ -20,13 +20,14 @@
 <dt>味噌</dt><dd>5Kg</dd>
 <dt>水</dt><dd>28L</dd>
 </dl>
+<h2>表</h2>
 <table>
 <tr><th>材料名</th><th>分量</th><th>単位</th></tr>
 <tr><th>人</th><th>220</th><th>g</th></tr>
 <tr><th>味噌</th><th>5</th><th>Kg</th></tr>
 <tr><th>水</th><th>28</th><th>L</th></tr>
 
-<h2>送信</h2>
+<h3>送信</h3>
 <form id="top" action="#" method="post">
 <p><input type="text" name="input1"></p>
 <p><input type="submit" value="送信">
@@ -35,7 +36,7 @@
 <p>テキストボックス<input type="text"              name="input1"></p>
 </form>
 
-<h3>アンケート</h3>
+<h4>アンケート</h4>
 <p>好きなのは？
 <input type="radio"name="input11"value="kutiku" checked>駆逐艦
 <input type="radio"name="input11"value="senkan" checked>戦艦
