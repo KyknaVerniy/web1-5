@@ -25,7 +25,8 @@
 <tr><th>人</th><th>220</th><th>g</th></tr>
 <tr><th>味噌</th><th>5</th><th>Kg</th></tr>
 <tr><th>水</th><th>28</th><th>L</th></tr>
-<h2>アンケート</h2>
+
+<h2>送信</h2>
 <form id="top" action="#" method="post">
 <p><input type="text" name="input1"></p>
 <p><input type="submit" value="送信">
@@ -33,6 +34,8 @@
 <form id="top" action="#" method="post">
 <p>テキストボックス<input type="text"              name="input1"></p>
 </form>
+
+<h3>アンケート</h3>
 <p>好きなのは？
 <input type="radio"name="input11"value="kutiku" checked>駆逐艦
 <input type="radio"name="input11"value="senkan" checked>戦艦
